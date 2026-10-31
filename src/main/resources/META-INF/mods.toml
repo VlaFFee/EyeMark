@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="eyemark"
+version="1.0.0"
+displayName="Eye Mark"
+description='''
+Команда /eyemark ставит игроку метку-глазок в точке мира (блок или воздух).
+Если метка за экраном, иконка висит на краю экрана со стрелкой, пока игрок не повернётся.
+Стоит задеть метку прицелом — через 2,5 секунды она исчезает.
+'''
+
+[[dependencies.eyemark]]
+modId="forge"
+mandatory=true
+versionRange="[47.2.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.eyemark]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

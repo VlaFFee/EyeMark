@@ -1,0 +1,11 @@
+{
+  "commands.eyemark.add": "Метка-глаз «%s» добавлена для игроков: %s",
+  "commands.eyemark.bad_id": "Слишком длинный id метки (максимум %s символов)",
+  "commands.eyemark.too_many": "У игрока %s уже максимум меток (%s)",
+  "commands.eyemark.remove": "Метка «%s» удалена у игроков: %s",
+  "commands.eyemark.remove.none": "Метка «%s» не найдена у выбранных игроков",
+  "commands.eyemark.clear": "Удалено меток: %s (игроков: %s)",
+  "commands.eyemark.list.empty": "У игрока %s нет меток",
+  "commands.eyemark.list.header": "У игрока %s меток: %s",
+  "commands.eyemark.list.entry": " - %s в %s %s %s (%s)"
+}

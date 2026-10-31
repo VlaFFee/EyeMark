@@ -1,0 +1,4 @@
+{
+  "mark_appear": { "sounds": [ "eyemark:mark_appear" ] },
+  "mark_seen": { "sounds": [ "eyemark:mark_seen" ] }
+}

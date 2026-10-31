@@ -1,0 +1,11 @@
+{
+  "commands.eyemark.add": "Added eye mark '%s' for %s player(s)",
+  "commands.eyemark.bad_id": "Mark id is too long (max %s characters)",
+  "commands.eyemark.too_many": "%s already has the maximum of %s marks",
+  "commands.eyemark.remove": "Removed mark '%s' from %s player(s)",
+  "commands.eyemark.remove.none": "No mark '%s' found for the selected players",
+  "commands.eyemark.clear": "Removed %s mark(s) from %s player(s)",
+  "commands.eyemark.list.empty": "%s has no marks",
+  "commands.eyemark.list.header": "%s has %s mark(s):",
+  "commands.eyemark.list.entry": " - %s at %s %s %s (%s)"
+}
